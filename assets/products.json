@@ -68,5 +68,75 @@
     "description": "Sony's latest gaming console with 8K output, lightning-fast load times, and 825GB SSD.",
     "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/ecom/playstation5.jpg",
     "price": 499.99
+  },
+  {
+    "id": 11,
+    "name": "Sony WH-1000XM5",
+    "description": "Premium wireless headphones with industry-leading noise cancellation and 30-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb",
+    "price": 399.99
+  },
+  {
+    "id": 12,
+    "name": "Nintendo Switch OLED",
+    "description": "Enhanced gaming console with vibrant 7-inch OLED screen and improved audio.",
+    "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e",
+    "price": 349.99
+  },
+  {
+    "id": 13,
+    "name": "Samsung Frame TV 65\"",
+    "description": "Innovative TV that transforms into art when not in use, with QLED 4K resolution.",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6",
+    "price": 1799.99
+  },
+  {
+    "id": 14,
+    "name": "DJI Mini 3 Pro",
+    "description": "Lightweight drone with 4K camera, obstacle avoidance, and 34-minute flight time.",
+    "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f",
+    "price": 759.99
+  },
+  {
+    "id": 15,
+    "name": "LG C3 OLED TV 77\"",
+    "description": "Premium OLED TV with perfect blacks, infinite contrast, and gaming features.",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6",
+    "price": 2999.99
+  },
+  {
+    "id": 16,
+    "name": "Sonos Arc Soundbar",
+    "description": "Premium soundbar with Dolby Atmos, voice control, and wireless streaming.",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d",
+    "price": 899.99
+  },
+  {
+    "id": 17,
+    "name": "Canon EOS R6 Mark II",
+    "description": "Professional mirrorless camera with 24.2MP sensor and 4K video capabilities.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32",
+    "price": 2499.99
+  },
+  {
+    "id": 18,
+    "name": "Peloton Bike+",
+    "description": "High-end smart exercise bike with rotating HD touchscreen and live classes.",
+    "image": "https://images.unsplash.com/photo-1591291621164-2c6367723315",
+    "price": 2495.0
+  },
+  {
+    "id": 19,
+    "name": "Samsung Odyssey G9",
+    "description": "49-inch curved gaming monitor with 240Hz refresh rate and HDR1000.",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf",
+    "price": 1599.99
+  },
+  {
+    "id": 20,
+    "name": "Theragun Pro",
+    "description": "Professional-grade percussion massage device with OLED screen and 5 hours battery life.",
+    "image": "https://images.unsplash.com/photo-1570655652364-2e0a67455ac6",
+    "price": 599.99
   }
 ]
