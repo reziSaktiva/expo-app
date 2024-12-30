@@ -124,19 +124,5 @@
     "description": "High-end smart exercise bike with rotating HD touchscreen and live classes.",
     "image": "https://images.unsplash.com/photo-1591291621164-2c6367723315",
     "price": 2495.0
-  },
-  {
-    "id": 19,
-    "name": "Samsung Odyssey G9",
-    "description": "49-inch curved gaming monitor with 240Hz refresh rate and HDR1000.",
-    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf",
-    "price": 1599.99
-  },
-  {
-    "id": 20,
-    "name": "Theragun Pro",
-    "description": "Professional-grade percussion massage device with OLED screen and 5 hours battery life.",
-    "image": "https://images.unsplash.com/photo-1570655652364-2e0a67455ac6",
-    "price": 599.99
   }
 ]
